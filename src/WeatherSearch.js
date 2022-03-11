@@ -50,11 +50,11 @@ export default function WeatherSearch() {
         </ul>
         <footer>
           This project was coded by Shabnam and is
-          <a href="https://github.com/shebadi/myWeatherProject" target="_blank">
+          <a href="https://github.com/shebadi/weather-react" target="_blank">
             Open-sourced on GitHub
           </a>
           and
-          <a href="https://vigilant-boyd-ab90d6.netlify.app/" target="_blank">
+          <a href="#" target="_blank">
             hosted on Netlify
           </a>
         </footer>
