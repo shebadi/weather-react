@@ -48,6 +48,16 @@ export default function WeatherSearch() {
             <img src={weather.icon} alt={weather.description} />
           </li>
         </ul>
+        <footer>
+          This project was coded by Shabnam and is
+          <a href="https://github.com/shebadi/myWeatherProject" target="_blank">
+            Open-sourced on GitHub
+          </a>
+          and
+          <a href="https://vigilant-boyd-ab90d6.netlify.app/" target="_blank">
+            hosted on Netlify
+          </a>
+        </footer>
       </div>
     );
   } else {
