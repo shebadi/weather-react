@@ -1,6 +1,5 @@
 import React from "react";
 import axios from "axios";
-import bootstrap from "bootstrap";
 import WeatherSearch from "./WeatherSearch";
 import "./Weather.css";
 
