@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import axios from "axios";
 
 export default function WeatherSearch() {
   const [city, setCity] = useState("");
@@ -57,9 +58,6 @@ export default function WeatherSearch() {
             Open-sourced on GitHub
           </a>
           and
-          <a href="#" rel="noreferrer" target="_blank">
-            hosted on Netlify
-          </a>
         </footer>
       </div>
     );
