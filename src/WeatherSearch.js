@@ -58,6 +58,13 @@ export default function WeatherSearch() {
             Open-sourced on GitHub
           </a>
           and
+          <a
+            href="https://laughing-tesla-b02d66.netlify.app/"
+            rel="noreferrer"
+            target="_blank"
+          >
+            hosted on Netlify
+          </a>
         </footer>
       </div>
     );
